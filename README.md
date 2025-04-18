@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F79647&center=true&vCenter=true&width=600&lines=🐐+Meet+Lewis+the+Goat!+🐐;Your+Digital+Pet+in+Python+🎉" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F79647&center=true&vCenter=true&width=600&lines=Meet+Lewis+the+Goat!;Your+Digital+Pet+in+Python!" alt="Typing SVG" />
 </p>
 
 ---
