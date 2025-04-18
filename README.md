@@ -11,12 +11,6 @@
 [![Open Source Love ❤️](https://badgen.net/badge/Open%20Source/Love/pink)](https://github.com/TshimoHlapane/OOP-Objective-NonCLI)
 
 ---
-
-
-# Digital Pet: Lewis the Goat 🐐
-
-# Digital Pet: Lewis the Goat 🐐
-
 Welcome to the **Digital Pet** project! 🎉 This project allows you to create and interact with a virtual pet using Python, all while practicing Object-Oriented Programming (OOP) concepts.
 
 ## 🧠 Objective
