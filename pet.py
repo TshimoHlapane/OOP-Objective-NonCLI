@@ -33,3 +33,5 @@ class Pet:
 
     def get_status(self):
         print(f"{self.name}'s Status — Hunger: {self.hunger}, Energy: {self.energy}, Happiness: {self.happiness}")
+
+        
