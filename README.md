@@ -10,6 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Love ❤️](https://badgen.net/badge/Open%20Source/Love/pink)](https://github.com/TshimoHlapane/OOP-Objective-NonCLI)
 
+
 ---
 Welcome to the **Digital Pet** project! 🎉 This project allows you to create and interact with a virtual pet using Python, all while practicing Object-Oriented Programming (OOP) concepts.
 
