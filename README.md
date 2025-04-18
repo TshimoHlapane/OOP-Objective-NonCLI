@@ -15,6 +15,8 @@
 
 # Digital Pet: Lewis the Goat 🐐
 
+# Digital Pet: Lewis the Goat 🐐
+
 Welcome to the **Digital Pet** project! 🎉 This project allows you to create and interact with a virtual pet using Python, all while practicing Object-Oriented Programming (OOP) concepts.
 
 ## 🧠 Objective
@@ -33,5 +35,4 @@ In this project, you create a virtual pet named **Lewis the Goat** 🐐. You can
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/digital-pet.git
+   git clone https://github.com/TshimoHlapane/OOP-Objective-NonCLI.git
