@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=F79647&center=true&vCenter=true&width=600&lines=🐐+Meet+Lewis+the+Goat!+🐐;Your+Digital+Pet+in+Python+🎉" alt="Typing SVG" />
+</p>
+
+---
+
+# Digital Pet: Lewis the Goat 🐐
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Love ❤️](https://badgen.net/badge/Open%20Source/Love/pink)](https://github.com/TshimoHlapane/OOP-Objective-NonCLI)
+
+---
+
+
 # Digital Pet: Lewis the Goat 🐐
 
 Welcome to the **Digital Pet** project! 🎉 This project allows you to create and interact with a virtual pet using Python, all while practicing Object-Oriented Programming (OOP) concepts.
